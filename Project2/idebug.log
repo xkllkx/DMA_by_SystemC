@@ -1,0 +1,1977 @@
+# MPD log
+#Info (TC_CN) New client (fd=7)
+1-mpd-connection-info
+2-gdb-set substitute-path /home/release/build/20211118.2/Imperas /usr/cad/imperas/cur
+3-mpd-list-processor-info
+4-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv2.c:126
+5-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+6-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+7-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+8-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+9-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+10-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+11-mpd-list-processor-info
+12-mpd-context-info
+13-mpd-list-processor-info
+14-stack-info-depth --thread 2 11
+15-stack-list-frames --thread 2
+16-thread-select --thread 2 2
+17-stack-list-arguments --thread 2 1
+18-stack-list-locals --thread 2 --frame 0 1
+19-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+20-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+21-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+22-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+23-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+24-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+25-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv2.c:126
+26-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+27-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+28-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+29-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+30-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+31-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+32-thread-select --thread 1 1
+33-stack-info-depth --thread 1 2
+34-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78
+35-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79
+36-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80
+37-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81
+38-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91
+39-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92
+40-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:127
+41-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133
+42-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134
+43-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:136
+44-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78
+45-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79
+46-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80
+47-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81
+48-thread-select --thread 2 2
+49-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+50-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+51-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+52-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+53-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79
+54-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80
+55-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81
+56-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+57-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+58-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78
+59-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+60-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+61-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+62-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+63-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80
+64-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81
+65-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+66-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+67-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79
+68-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76
+69-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+70-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+71-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+72-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+73-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81
+74-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+75-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+76-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+77-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+78-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+79-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+80-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+81-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+82-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81
+83-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80
+84-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:90
+85-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:91
+86-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:126
+87-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132
+88-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133
+89-break-insert --thread 2 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:135
+90-data-read-memory-bytes --thread 2 1048576 320
+91-data-read-memory-bytes --thread 2 2098176 320
+92-data-read-memory-bytes --thread 2 3145728 320
+93-data-read-memory-bytes --thread 2 2099200 320
+94-thread-select --thread 1 1
+95-thread-select --thread 2 2
+96-data-read-memory-bytes --thread 2 3146752 320
+97-data-read-memory-bytes --thread 2 2097152 320
+98-thread-select --thread 1 1
+99-data-read-memory-bytes --thread 1 1048576 320
+100-data-read-memory-bytes --thread 1 2098176 320
+101-data-read-memory-bytes --thread 1 3145728 320
+102-data-read-memory-bytes --thread 1 2099200 320
+103-exec-continue --thread 1
+#
+#Breakpoint 7 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:127 triggered for processor top.cpu1
+#
+#main () at riscv1.c:127
+#127	        while(readReg8(0x200800, 0) != (Uns32)0x0)
+104-data-read-memory-bytes --thread 1 1048576 320
+105-mpd-list-processor-info
+106-stack-info-depth --thread 1 11
+107-stack-list-locals --thread 1 --frame 0 1
+108-var-create --thread 1 --frame 0 - * k
+109-var-create --thread 1 --frame 0 - * adr_a
+110-var-create --thread 1 --frame 0 - * adr_c
+111-var-create --thread 1 --frame 0 - * offset
+112-var-create --thread 1 --frame 0 - * data
+c
+#
+#Breakpoint 8 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+113-data-read-memory-bytes --thread 1 1048576 320
+114-stack-info-depth --thread 1 2
+115-mpd-list-processor-info
+116-stack-list-locals --thread 1 --frame 0 1
+117-var-create --thread 1 --frame 0 - * i
+118-var-update 1 var1
+119-var-update 1 var2
+120-var-update 1 var3
+121-var-update 1 var4
+122-var-update 1 var5
+123-data-evaluate-expression --thread 1 --frame 0 adr_c
+124-var-list-children var3
+125-var-info-path-expression var3.*adr_c
+126-var-evaluate-expression var3.*adr_c
+127-var-set-format var3 octal
+128-var-set-format var3 natural
+129-var-set-format var3 decimal
+130-var-set-format var3 natural
+131-var-set-format var3 binary
+132-var-set-format var3 natural
+133-var-set-format var3 hexadecimal
+134-var-set-format var3 natural
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200400, to=0x300000, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+135-data-read-memory-bytes --thread 1 1048576 320
+136-stack-info-depth --thread 1 2
+137-mpd-list-processor-info
+138-stack-list-locals --thread 1 --frame 0 1
+139-stack-info-depth --thread 1
+140-stack-info-depth --thread 1 11
+141-var-create --thread 1 --frame 0 - * adr_c
+142-stack-list-frames --thread 1
+c
+#
+#Breakpoint 18 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:126 triggered for processor top.cpu2
+#
+#main () at riscv2.c:126
+#126	        while(readReg8(0x200800, 0) != (Uns32)0x1)
+143-mpd-list-processor-info
+144-data-read-memory-bytes --thread 1 1048576 320
+145-stack-list-arguments --thread 1 1
+146-stack-list-locals --thread 1 --frame 0 1
+147-stack-list-frames --thread 1
+148-stack-info-depth --thread 2 11
+149-stack-info-depth --thread 1
+150-var-create --thread 1 --frame 0 - * address
+151-var-create --thread 1 --frame 0 - * offset
+152-var-create --thread 1 --frame 0 - * value
+153-data-read-memory-bytes --thread 2 2099200 320
+154-data-read-memory-bytes --thread 2 1048576 320
+155-stack-list-locals --thread 2 --frame 0 1
+156-var-create --thread 2 --frame 0 - * k
+157-var-create --thread 2 --frame 0 - * adr_a
+158-var-create --thread 2 --frame 0 - * adr_b
+159-var-create --thread 2 --frame 0 - * adr_d
+160-var-create --thread 2 --frame 0 - * offset
+161-var-create --thread 2 --frame 0 - * data
+162-data-read-memory-bytes --thread 2 3146752 320
+163-data-read-memory-bytes --thread 2 2097152 320
+164-thread-select --thread 1 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200400, to=0x300000, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+165-data-read-memory-bytes --thread 1 1048576 320
+166-mpd-list-processor-info
+167-stack-info-depth --thread 1 11
+168-stack-list-locals --thread 1 --frame 0 1
+169-stack-info-depth --thread 2 11
+170-stack-list-frames --thread 2
+171-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200400, to=0x300000, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+172-data-read-memory-bytes --thread 1 1048576 320
+173-mpd-list-processor-info
+174-stack-list-locals --thread 1 --frame 0 1
+175-stack-info-depth --thread 1 11
+176-stack-info-depth --thread 2 11
+177-stack-list-frames --thread 2
+178-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200400, to=0x300000, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+179-data-read-memory-bytes --thread 1 1048576 320
+180-mpd-list-processor-info
+181-stack-list-locals --thread 1 --frame 0 1
+182-stack-info-depth --thread 1 11
+183-stack-info-depth --thread 2 11
+184-stack-list-frames --thread 2
+185-stack-list-frames --thread 1
+c
+#
+#Breakpoint 9 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134 triggered for processor top.cpu1
+#
+#main () at riscv1.c:134
+#134	            wfi();
+186-data-read-memory-bytes --thread 1 1048576 320
+187-stack-info-depth --thread 1 2
+188-mpd-list-processor-info
+189-stack-list-locals --thread 1 --frame 0 1
+190-var-update 1 var6
+191-var-update 1 var1
+192-var-update 1 var2
+193-var-update 1 var3
+194-var-update 1 var4
+195-var-update 1 var5
+196-stack-info-depth --thread 2 11
+197-stack-list-frames --thread 2
+c
+#
+#Breakpoint 5 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+198-data-read-memory-bytes --thread 1 1048576 320
+199-mpd-list-processor-info
+200-stack-list-locals --thread 1 --frame 0 1
+201-stack-info-depth --thread 1 11
+202-stack-info-depth --thread 2 11
+203-stack-list-frames --thread 2
+204-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+205-data-read-memory-bytes --thread 1 1048576 320
+206-mpd-list-processor-info
+207-stack-list-locals --thread 1 --frame 0 1
+208-stack-info-depth --thread 1 11
+209-stack-info-depth --thread 2 11
+210-stack-list-frames --thread 2
+211-stack-list-frames --thread 1
+c
+#
+#Breakpoint 8 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+212-data-read-memory-bytes --thread 1 1048576 320
+213-mpd-list-processor-info
+214-stack-info-depth --thread 2 11
+215-stack-info-depth --thread 1 11
+216-stack-list-frames --thread 2
+217-stack-list-locals --thread 1 --frame 0 1
+218-var-update 1 var6
+219-var-update 1 var1
+220-var-update 1 var2
+221-var-update 1 var3
+222-var-update 1 var4
+223-var-update 1 var5
+224-data-read-memory-bytes --thread 1 2098176 320
+225-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200404, to=0x300004, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+226-data-read-memory-bytes --thread 1 3145728 320
+227-mpd-list-processor-info
+228-stack-list-locals --thread 1 --frame 0 1
+229-stack-info-depth --thread 1 11
+230-stack-info-depth --thread 2 11
+231-stack-list-frames --thread 2
+232-stack-list-frames --thread 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200404, to=0x300004, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+233-data-read-memory-bytes --thread 1 3145728 320
+234-stack-info-depth --thread 1 2
+235-mpd-list-processor-info
+236-stack-list-locals --thread 1 --frame 0 1
+237-stack-info-depth --thread 1 11
+238-stack-info-depth --thread 2 11
+239-stack-list-frames --thread 2
+240-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200404, to=0x300004, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+241-data-read-memory-bytes --thread 1 3145728 320
+242-mpd-list-processor-info
+243-stack-list-locals --thread 1 --frame 0 1
+244-stack-info-depth --thread 1 11
+245-stack-info-depth --thread 2 11
+246-stack-list-frames --thread 2
+247-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200404, to=0x300004, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+248-data-read-memory-bytes --thread 1 3145728 320
+249-mpd-list-processor-info
+250-stack-list-locals --thread 1 --frame 0 1
+251-stack-info-depth --thread 1 11
+252-stack-info-depth --thread 2 11
+253-stack-list-frames --thread 1
+254-stack-list-frames --thread 2
+c
+#
+#Breakpoint 9 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134 triggered for processor top.cpu1
+#
+#main () at riscv1.c:134
+#134	            wfi();
+255-data-read-memory-bytes --thread 1 3145728 320
+256-mpd-list-processor-info
+257-stack-list-locals --thread 1 --frame 0 1
+258-stack-info-depth --thread 1 11
+259-var-update 1 var6
+260-var-update 1 var1
+261-var-update 1 var2
+262-var-update 1 var3
+263-var-update 1 var4
+264-var-update 1 var5
+265-stack-info-depth --thread 2 11
+266-stack-list-frames --thread 2
+c
+#
+#Breakpoint 5 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+267-data-read-memory-bytes --thread 1 3145728 320
+268-mpd-list-processor-info
+269-stack-list-locals --thread 1 --frame 0 1
+270-stack-info-depth --thread 1 11
+271-stack-info-depth --thread 2 11
+272-stack-list-frames --thread 2
+273-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+274-data-read-memory-bytes --thread 1 3145728 320
+275-mpd-list-processor-info
+276-stack-list-locals --thread 1 --frame 0 1
+277-stack-info-depth --thread 1 11
+278-stack-info-depth --thread 2 11
+279-stack-list-frames --thread 2
+280-stack-list-frames --thread 1
+c
+#
+#Breakpoint 8 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+281-data-read-memory-bytes --thread 1 3145728 320
+282-mpd-list-processor-info
+283-stack-info-depth --thread 2 11
+284-stack-info-depth --thread 1 11
+285-stack-list-frames --thread 2
+286-stack-list-locals --thread 1 --frame 0 1
+287-var-update 1 var6
+288-var-update 1 var1
+289-var-update 1 var2
+290-var-update 1 var3
+291-var-update 1 var4
+292-var-update 1 var5
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200408, to=0x300008, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+293-data-read-memory-bytes --thread 1 3145728 320
+294-mpd-list-processor-info
+295-stack-list-locals --thread 1 --frame 0 1
+296-stack-info-depth --thread 1 11
+297-stack-info-depth --thread 2 11
+298-stack-list-frames --thread 2
+299-stack-list-frames --thread 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200408, to=0x300008, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+300-data-read-memory-bytes --thread 1 3145728 320
+301-mpd-list-processor-info
+302-stack-list-locals --thread 1 --frame 0 1
+303-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200408, to=0x300008, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+304-mpd-list-processor-info
+305-stack-list-locals --thread 1 --frame 0 1
+306-stack-info-depth --thread 1 11
+307-data-read-memory-bytes --thread 1 3145728 320
+308-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200408, to=0x300008, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+309-data-read-memory-bytes --thread 1 3145728 320
+310-mpd-list-processor-info
+311-stack-list-locals --thread 1 --frame 0 1
+312-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 9 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134 triggered for processor top.cpu1
+#
+#main () at riscv1.c:134
+#134	            wfi();
+313-mpd-list-processor-info
+314-stack-list-locals --thread 1 --frame 0 1
+c
+#
+#Breakpoint 5 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+315-stack-list-locals --thread 1 --frame 0 1
+316-mpd-list-processor-info
+317-stack-info-depth --thread 1
+318-var-create --thread 1 --frame 0 - * i
+319-var-create --thread 1 --frame 0 - * k
+320-var-create --thread 1 --frame 0 - * adr_a
+321-var-create --thread 1 --frame 0 - * adr_c
+322-var-create --thread 1 --frame 0 - * offset
+323-var-create --thread 1 --frame 0 - * data
+324-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+325-mpd-list-processor-info
+326-stack-list-locals --thread 1 --frame 0 1
+327-stack-info-depth --thread 1 11
+328-data-read-memory-bytes --thread 1 3145728 320
+329-stack-info-depth --thread 2 11
+330-stack-list-frames --thread 2
+331-stack-list-frames --thread 1
+c
+#
+#Breakpoint 8 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+332-data-read-memory-bytes --thread 1 3145728 320
+333-mpd-list-processor-info
+334-stack-info-depth --thread 2 11
+335-stack-info-depth --thread 1 11
+336-stack-list-locals --thread 1 --frame 0 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20040c, to=0x30000c, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+337-data-read-memory-bytes --thread 1 3145728 320
+338-stack-info-depth --thread 1 2
+339-mpd-list-processor-info
+340-stack-list-locals --thread 1 --frame 0 1
+341-stack-info-depth --thread 1
+342-var-create --thread 1 --frame 0 - * i
+343-var-create --thread 1 --frame 0 - * k
+344-var-create --thread 1 --frame 0 - * adr_a
+345-var-create --thread 1 --frame 0 - * adr_c
+346-var-create --thread 1 --frame 0 - * offset
+347-var-create --thread 1 --frame 0 - * data
+348-var-create --thread 1 --frame 0 - * i
+349-var-create --thread 1 --frame 0 - * k
+350-var-create --thread 1 --frame 0 - * adr_a
+351-var-create --thread 1 --frame 0 - * adr_c
+352-var-create --thread 1 --frame 0 - * offset
+353-var-create --thread 1 --frame 0 - * data
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20040c, to=0x30000c, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+354-mpd-list-processor-info
+355-stack-list-locals --thread 1 --frame 0 1
+356-stack-info-depth --thread 1 11
+357-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20040c, to=0x30000c, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+358-data-read-memory-bytes --thread 1 3145728 320
+359-mpd-list-processor-info
+360-stack-list-locals --thread 1 --frame 0 1
+361-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20040c, to=0x30000c, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+362-data-read-memory-bytes --thread 1 3145728 320
+363-stack-info-depth --thread 2 11
+364-mpd-list-processor-info
+365-stack-list-locals --thread 1 --frame 0 1
+366-stack-info-depth --thread 1 11
+367-stack-list-frames --thread 2
+c
+#
+#Breakpoint 9 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134 triggered for processor top.cpu1
+#
+#main () at riscv1.c:134
+#134	            wfi();
+368-mpd-list-processor-info
+369-stack-list-locals --thread 1 --frame 0 1
+370-stack-info-depth --thread 1 11
+371-var-update 1 var6
+372-var-update 1 var1
+373-var-update 1 var2
+374-var-update 1 var3
+375-var-update 1 var4
+376-var-update 1 var5
+377-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 5 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+378-data-read-memory-bytes --thread 1 3145728 320
+379-mpd-list-processor-info
+380-stack-list-locals --thread 1 --frame 0 1
+381-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+382-mpd-list-processor-info
+383-stack-list-locals --thread 1 --frame 0 1
+384-stack-info-depth --thread 1 11
+385-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 8 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+386-data-read-memory-bytes --thread 1 3145728 320
+387-mpd-list-processor-info
+388-stack-info-depth --thread 2 11
+389-stack-info-depth --thread 1 11
+390-stack-list-frames --thread 2
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200410, to=0x300010, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+391-stack-info-depth --thread 1 2
+392-mpd-list-processor-info
+393-stack-list-locals --thread 1 --frame 0 1
+394-stack-info-depth --thread 1 11
+395-data-read-memory-bytes --thread 1 3145728 320
+396-stack-info-depth --thread 2 11
+397-stack-list-frames --thread 2
+398-stack-list-frames --thread 1
+399-break-delete --thread 1 5
+400-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+401-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+402-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+403-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+404-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+405-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+406-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91
+407-break-delete --thread 1 8
+408-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+409-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+410-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+411-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+412-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+413-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+414-break-delete --thread 1 9
+415-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+416-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+417-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+418-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+419-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+420-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200410, to=0x300010, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+421-data-read-memory-bytes --thread 1 3145728 320
+422-mpd-list-processor-info
+423-stack-list-locals --thread 1 --frame 0 1
+424-stack-info-depth --thread 1 11
+425-stack-info-depth --thread 2 11
+426-stack-list-frames --thread 2
+427-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200410, to=0x300010, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+428-data-read-memory-bytes --thread 1 3145728 320
+429-mpd-list-processor-info
+430-stack-list-locals --thread 1 --frame 0 1
+431-stack-info-depth --thread 1 11
+432-stack-info-depth --thread 2 11
+433-stack-list-frames --thread 2
+434-stack-list-frames --thread 1
+435-data-read-memory-bytes --thread 1 1048576 320
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200410, to=0x300010, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+436-data-read-memory-bytes --thread 1 1048576 320
+437-mpd-list-processor-info
+438-stack-list-locals --thread 1 --frame 0 1
+439-stack-info-depth --thread 1 11
+440-stack-info-depth --thread 2 11
+441-stack-list-frames --thread 1
+442-stack-list-frames --thread 2
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+443-data-read-memory-bytes --thread 1 1048576 320
+444-mpd-list-processor-info
+445-stack-list-locals --thread 1 --frame 0 1
+446-stack-info-depth --thread 1 11
+447-stack-info-depth --thread 2
+448-stack-info-depth --thread 2 11
+449-stack-list-frames --thread 2
+450-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+451-data-read-memory-bytes --thread 1 1048576 320
+452-mpd-list-processor-info
+453-stack-list-locals --thread 1 --frame 0 1
+454-stack-info-depth --thread 1 11
+455-stack-info-depth --thread 2 11
+456-stack-list-frames --thread 2
+457-stack-list-frames --thread 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200414, to=0x300014, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+458-data-read-memory-bytes --thread 1 1048576 320
+459-mpd-list-processor-info
+460-stack-info-depth --thread 1 11
+461-stack-list-locals --thread 1 --frame 0 1
+462-stack-list-frames --thread 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200414, to=0x300014, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+463-mpd-list-processor-info
+464-data-read-memory-bytes --thread 1 1048576 320
+465-stack-list-locals --thread 1 --frame 0 1
+466-stack-info-depth --thread 1 11
+467-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200414, to=0x300014, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+468-data-read-memory-bytes --thread 1 1048576 320
+469-mpd-list-processor-info
+470-stack-list-locals --thread 1 --frame 0 1
+471-stack-info-depth --thread 1 11
+472-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200414, to=0x300014, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+473-data-read-memory-bytes --thread 1 1048576 320
+474-mpd-list-processor-info
+475-stack-list-locals --thread 1 --frame 0 1
+476-stack-info-depth --thread 1 11
+477-stack-list-frames --thread 1
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+478-mpd-list-processor-info
+479-data-read-memory-bytes --thread 1 1048576 320
+480-stack-list-locals --thread 1 --frame 0 1
+481-stack-info-depth --thread 1 11
+482-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+483-data-read-memory-bytes --thread 1 1048576 320
+484-mpd-list-processor-info
+485-stack-list-locals --thread 1 --frame 0 1
+486-stack-info-depth --thread 1 11
+487-stack-list-frames --thread 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200418, to=0x300018, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+488-data-read-memory-bytes --thread 1 1048576 320
+489-mpd-list-processor-info
+490-stack-info-depth --thread 1 11
+491-stack-list-locals --thread 1 --frame 0 1
+492-stack-list-frames --thread 1
+493-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200418, to=0x300018, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+494-data-read-memory-bytes --thread 1 3145728 320
+495-mpd-list-processor-info
+496-stack-list-locals --thread 1 --frame 0 1
+497-stack-info-depth --thread 1 11
+498-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200418, to=0x300018, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+499-data-read-memory-bytes --thread 1 3145728 320
+500-mpd-list-processor-info
+501-stack-list-locals --thread 1 --frame 0 1
+502-stack-info-depth --thread 1 11
+503-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200418, to=0x300018, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+504-data-read-memory-bytes --thread 1 3145728 320
+505-mpd-list-processor-info
+506-stack-list-locals --thread 1 --frame 0 1
+507-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+508-data-read-memory-bytes --thread 1 3145728 320
+509-stack-info-depth --thread 1 2
+510-mpd-list-processor-info
+511-stack-list-locals --thread 1 --frame 0 1
+512-stack-info-depth --thread 1 11
+513-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+514-data-read-memory-bytes --thread 1 3145728 320
+515-mpd-list-processor-info
+516-stack-list-locals --thread 1 --frame 0 1
+517-stack-info-depth --thread 1 11
+518-stack-list-frames --thread 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20041c, to=0x30001c, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+519-data-read-memory-bytes --thread 1 3145728 320
+520-mpd-list-processor-info
+521-stack-info-depth --thread 1 11
+522-stack-list-locals --thread 1 --frame 0 1
+523-stack-list-frames --thread 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20041c, to=0x30001c, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+524-data-read-memory-bytes --thread 1 3145728 320
+525-mpd-list-processor-info
+526-stack-list-locals --thread 1 --frame 0 1
+527-stack-info-depth --thread 1 11
+528-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20041c, to=0x30001c, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+529-data-read-memory-bytes --thread 1 3145728 320
+530-mpd-list-processor-info
+531-stack-list-locals --thread 1 --frame 0 1
+532-stack-info-depth --thread 1 11
+533-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20041c, to=0x30001c, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+534-data-read-memory-bytes --thread 1 3145728 320
+535-mpd-list-processor-info
+536-stack-list-locals --thread 1 --frame 0 1
+537-stack-info-depth --thread 1 11
+538-stack-list-frames --thread 1
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+539-data-read-memory-bytes --thread 1 3145728 320
+540-mpd-list-processor-info
+541-stack-list-locals --thread 1 --frame 0 1
+542-stack-info-depth --thread 1 11
+543-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+544-data-read-memory-bytes --thread 1 3145728 320
+545-mpd-list-processor-info
+546-stack-list-locals --thread 1 --frame 0 1
+547-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200420, to=0x300020, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+548-data-read-memory-bytes --thread 1 3145728 320
+549-mpd-list-processor-info
+550-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200420, to=0x300020, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+551-stack-info-depth --thread 1 2
+552-mpd-list-processor-info
+553-stack-list-locals --thread 1 --frame 0 1
+554-stack-info-depth --thread 1 11
+555-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200420, to=0x300020, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+556-stack-list-frames --thread 1
+557-data-read-memory-bytes --thread 1 3145728 320
+558-mpd-list-processor-info
+559-stack-list-locals --thread 1 --frame 0 1
+560-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200420, to=0x300020, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+561-data-read-memory-bytes --thread 1 3145728 320
+562-mpd-list-processor-info
+563-stack-list-locals --thread 1 --frame 0 1
+564-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+565-data-read-memory-bytes --thread 1 3145728 320
+566-stack-info-depth --thread 1 2
+567-mpd-list-processor-info
+568-stack-list-locals --thread 1 --frame 0 1
+569-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+570-data-read-memory-bytes --thread 1 3145728 320
+571-mpd-list-processor-info
+572-stack-list-locals --thread 1 --frame 0 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200424, to=0x300024, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+573-data-read-memory-bytes --thread 1 3145728 320
+574-mpd-list-processor-info
+575-stack-list-locals --thread 1 --frame 0 1
+576-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200424, to=0x300024, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+577-mpd-list-processor-info
+578-stack-list-locals --thread 1 --frame 0 1
+579-data-read-memory-bytes --thread 1 3145728 320
+580-stack-info-depth --thread 1 11
+581-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200424, to=0x300024, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+582-data-read-memory-bytes --thread 1 3145728 320
+583-mpd-list-processor-info
+584-stack-list-locals --thread 1 --frame 0 1
+585-stack-info-depth --thread 1 11
+586-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200424, to=0x300024, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+587-data-read-memory-bytes --thread 1 3145728 320
+588-mpd-list-processor-info
+589-stack-list-locals --thread 1 --frame 0 1
+590-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+591-mpd-list-processor-info
+592-stack-list-locals --thread 1 --frame 0 1
+593-stack-info-depth --thread 1 11
+594-data-read-memory-bytes --thread 1 3145728 320
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+595-mpd-list-processor-info
+596-stack-list-locals --thread 1 --frame 0 1
+597-stack-info-depth --thread 1 11
+598-data-read-memory-bytes --thread 1 3145728 320
+599-stack-list-frames --thread 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200428, to=0x300028, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+600-data-read-memory-bytes --thread 1 3145728 320
+601-mpd-list-processor-info
+602-stack-info-depth --thread 1 11
+603-stack-list-locals --thread 1 --frame 0 1
+604-stack-list-frames --thread 1
+605-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133
+606-break-insert --thread 1 /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200428, to=0x300028, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+607-data-read-memory-bytes --thread 1 3145728 320
+608-mpd-list-processor-info
+609-stack-list-locals --thread 1 --frame 0 1
+610-stack-info-depth --thread 1 11
+611-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200428, to=0x300028, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+612-data-read-memory-bytes --thread 1 3145728 320
+613-mpd-list-processor-info
+614-stack-list-locals --thread 1 --frame 0 1
+615-stack-info-depth --thread 1 11
+616-stack-list-frames --thread 1
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200428, to=0x300028, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+617-data-read-memory-bytes --thread 1 3145728 320
+618-mpd-list-processor-info
+619-stack-list-locals --thread 1 --frame 0 1
+620-stack-info-depth --thread 1 11
+621-stack-list-frames --thread 1
+c
+#
+#Breakpoint 24 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:134 triggered for processor top.cpu1
+#
+#main () at riscv1.c:134
+#134	            wfi();
+622-data-read-memory-bytes --thread 1 3145728 320
+623-mpd-list-processor-info
+624-stack-list-locals --thread 1 --frame 0 1
+625-stack-info-depth --thread 1 11
+626-var-update 1 var6
+627-var-update 1 var1
+628-var-update 1 var2
+629-var-update 1 var3
+630-var-update 1 var4
+631-var-update 1 var5
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+632-data-read-memory-bytes --thread 1 3145728 320
+633-mpd-list-processor-info
+634-stack-list-locals --thread 1 --frame 0 1
+635-stack-info-depth --thread 1 11
+636-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+637-data-read-memory-bytes --thread 1 3145728 320
+638-mpd-list-processor-info
+639-stack-list-locals --thread 1 --frame 0 1
+640-stack-info-depth --thread 1 11
+641-stack-list-frames --thread 1
+c
+#
+#Breakpoint 23 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:133 triggered for processor top.cpu1
+#
+#main () at riscv1.c:133
+#133	            dmaBurst1(adr_a+i, adr_c+i, 4);
+642-data-read-memory-bytes --thread 1 3145728 320
+643-mpd-list-processor-info
+644-stack-info-depth --thread 1 11
+645-stack-list-locals --thread 1 --frame 0 1
+646-var-update 1 var6
+647-var-update 1 var1
+648-var-update 1 var2
+649-var-update 1 var3
+650-var-update 1 var4
+651-var-update 1 var5
+652-break-delete --thread 1 23
+653-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+654-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+655-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+656-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+657-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+658-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+659-break-delete --thread 1 24
+660-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+661-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+662-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+663-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+664-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+665-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20042c, to=0x30002c, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+666-data-read-memory-bytes --thread 1 3145728 320
+667-mpd-list-processor-info
+668-stack-list-locals --thread 1 --frame 0 1
+669-stack-info-depth --thread 1 11
+670-stack-list-frames --thread 1
+c
+#
+#Breakpoint 2 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:79 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20042c, to=0x30002c, bytes=4) at riscv1.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR1, (Uns32)to);
+671-data-read-memory-bytes --thread 1 3145728 320
+672-mpd-list-processor-info
+673-stack-info-depth --thread 1 11
+674-stack-list-locals --thread 1 --frame 0 1
+675-stack-list-frames --thread 1
+c
+#
+#Breakpoint 3 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:80 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20042c, to=0x30002c, bytes=4) at riscv1.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR1, bytes);
+676-data-read-memory-bytes --thread 1 3145728 320
+677-mpd-list-processor-info
+678-stack-list-locals --thread 1 --frame 0 1
+679-stack-info-depth --thread 1 11
+c
+#
+#Breakpoint 4 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:81 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x20042c, to=0x30002c, bytes=4) at riscv1.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x1);
+680-data-read-memory-bytes --thread 1 3145728 320
+681-mpd-list-processor-info
+682-stack-list-locals --thread 1 --frame 0 1
+683-stack-info-depth --thread 1 11
+684-stack-list-frames --thread 1
+c
+#
+#Breakpoint 22 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:91 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:91
+#91	        printf("Interrupt 1 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR1), 0x1);
+685-data-read-memory-bytes --thread 1 3145728 320
+686-mpd-list-processor-info
+687-stack-list-locals --thread 1 --frame 0 1
+688-stack-info-depth --thread 1 11
+689-stack-list-frames --thread 1
+c
+#
+#Breakpoint 6 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:92 triggered for processor top.cpu1
+#
+#interruptHandler () at riscv1.c:92
+#92	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR1, 0x0); //Pull down START/CLEAR
+690-data-read-memory-bytes --thread 1 3145728 320
+691-mpd-list-processor-info
+692-stack-list-locals --thread 1 --frame 0 1
+693-stack-info-depth --thread 1 11
+694-stack-list-frames --thread 1
+c
+#
+#Breakpoint 1 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:78 triggered for processor top.cpu1
+#
+#dmaBurst1 (from=0x200430, to=0x300030, bytes=4) at riscv1.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR1, (Uns32)from);
+695-mpd-list-processor-info
+696-data-read-memory-bytes --thread 1 3145728 320
+697-stack-info-depth --thread 1 11
+698-stack-list-locals --thread 1 --frame 0 1
+699-stack-list-frames --thread 1
+700-data-evaluate-expression --thread 1 --frame 0 readReg8
+701-var-create --thread 1 --frame 0 - * readReg8
+702-var-set-format var16 octal
+703-var-set-format var16 natural
+704-var-set-format var16 decimal
+705-var-set-format var16 natural
+706-var-set-format var16 binary
+707-var-set-format var16 natural
+708-var-set-format var16 hexadecimal
+709-var-set-format var16 natural
+710-data-evaluate-expression --thread 1 --frame 0
+711-break-delete --thread 1 22
+712-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+713-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+714-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+715-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+716-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+717-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+718-break-delete --thread 1 6
+719-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+720-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+721-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+722-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+723-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+724-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+725-break-delete --thread 1 1
+726-break-delete --thread 1 2
+727-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+728-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+729-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+730-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+731-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+732-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+733-break-delete --thread 1 3
+734-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+735-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+736-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+737-break-delete --thread 1 4
+738-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+739-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+740-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+741-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+742-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+743-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+c
+#
+#Breakpoint 10 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:136 triggered for processor top.cpu1
+#
+#main () at riscv1.c:136
+#136	        writeReg8(0x200800, 0, 0x1);    //RISCV-1 writes a flag 0x1 to address 0x200800 to indicate the end of data transmission.
+744-data-read-memory-bytes --thread 1 3145728 320
+745-mpd-list-processor-info
+746-stack-info-depth --thread 1 11
+747-stack-list-locals --thread 1 --frame 0 1
+748-var-update 1 var1
+749-var-update 1 var2
+750-var-update 1 var3
+751-var-update 1 var4
+752-var-update 1 var5
+c
+#
+#Breakpoint 7 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:127 triggered for processor top.cpu1
+#
+#main () at riscv1.c:127
+#127	        while(readReg8(0x200800, 0) != (Uns32)0x0)
+753-data-read-memory-bytes --thread 1 3145728 320
+754-mpd-list-processor-info
+755-stack-list-locals --thread 1 --frame 0 1
+756-stack-info-depth --thread 1 11
+757-var-update 1 var1
+758-var-update 1 var2
+759-var-update 1 var3
+760-var-update 1 var4
+761-var-update 1 var5
+c
+#
+#Breakpoint 19 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132 triggered for processor top.cpu2
+#
+#main () at riscv2.c:132
+#132	            dmaBurst2(adr_b+i, adr_d+i, 4);
+762-thread-select --thread 1 1
+763-stack-info-depth --thread 1 2
+764-data-read-memory-bytes --thread 1 3145728 320
+765-mpd-list-processor-info
+766-stack-list-arguments --thread 1 1
+767-stack-list-locals --thread 1 --frame 0 1
+768-stack-info-depth --thread 2 11
+769-stack-info-depth --thread 1
+770-thread-select --thread 2 2
+771-data-read-memory-bytes --thread 2 1048576 320
+772-stack-list-locals --thread 2 --frame 0 1
+773-var-create --thread 2 --frame 0 - * i
+774-var-update 1 var10
+775-var-update 1 var11
+776-var-update 1 var12
+777-var-update 1 var13
+778-var-update 1 var14
+779-var-update 1 var15
+c
+#
+#Breakpoint 13 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300400, to=0x200000, bytes=4) at riscv2.c:76
+#76	    printf("dmaBurst 2, bytes:%d\n", bytes);
+780-data-read-memory-bytes --thread 2 1048576 320
+781-mpd-list-processor-info
+782-stack-list-locals --thread 2 --frame 0 1
+783-stack-info-depth --thread 2 11
+784-stack-list-frames --thread 2
+c
+#
+#Breakpoint 11 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300400, to=0x200000, bytes=4) at riscv2.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR2, (Uns32)from);
+785-data-read-memory-bytes --thread 2 1048576 320
+786-mpd-list-processor-info
+787-stack-list-locals --thread 2 --frame 0 1
+788-stack-info-depth --thread 2 11
+789-stack-list-frames --thread 2
+c
+#
+#Breakpoint 12 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300400, to=0x200000, bytes=4) at riscv2.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR2, (Uns32)to);
+790-data-read-memory-bytes --thread 2 1048576 320
+791-mpd-list-processor-info
+792-stack-list-locals --thread 2 --frame 0 1
+793-stack-info-depth --thread 2 11
+794-stack-list-frames --thread 2
+c
+#
+#Breakpoint 15 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300400, to=0x200000, bytes=4) at riscv2.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR2, bytes);
+795-data-read-memory-bytes --thread 2 1048576 320
+796-mpd-list-processor-info
+797-stack-list-locals --thread 2 --frame 0 1
+798-stack-info-depth --thread 2 11
+799-stack-list-frames --thread 2
+c
+#
+#Breakpoint 14 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300400, to=0x200000, bytes=4) at riscv2.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x1);
+800-data-read-memory-bytes --thread 2 1048576 320
+801-mpd-list-processor-info
+802-stack-list-locals --thread 2 --frame 0 1
+803-stack-info-depth --thread 2 11
+804-stack-list-frames --thread 2
+c
+#
+#Breakpoint 20 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133 triggered for processor top.cpu2
+#
+#main () at riscv2.c:133
+#133	            wfi();
+805-data-read-memory-bytes --thread 2 1048576 320
+806-mpd-list-processor-info
+807-stack-list-locals --thread 2 --frame 0 1
+808-stack-info-depth --thread 2 11
+809-var-update 1 var17
+810-var-update 1 var10
+811-var-update 1 var11
+812-var-update 1 var12
+813-var-update 1 var13
+814-var-update 1 var14
+815-var-update 1 var15
+c
+#
+#Breakpoint 16 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:90 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:90
+#90	        printf("Interrupt 2 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR2), 0x1);
+816-data-read-memory-bytes --thread 2 1048576 320
+817-mpd-list-processor-info
+818-stack-list-locals --thread 2 --frame 0 1
+819-stack-info-depth --thread 2 11
+820-stack-list-frames --thread 2
+c
+#
+#Breakpoint 17 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:91 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:91
+#91	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x0); //Pull down START/CLEAR
+821-data-read-memory-bytes --thread 2 1048576 320
+822-mpd-list-processor-info
+823-stack-list-locals --thread 2 --frame 0 1
+824-stack-info-depth --thread 2 11
+825-stack-list-frames --thread 2
+c
+#
+#Breakpoint 19 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132 triggered for processor top.cpu2
+#
+#main () at riscv2.c:132
+#132	            dmaBurst2(adr_b+i, adr_d+i, 4);
+826-data-read-memory-bytes --thread 2 1048576 320
+827-mpd-list-processor-info
+828-stack-info-depth --thread 2 11
+829-stack-list-locals --thread 2 --frame 0 1
+830-var-update 1 var17
+831-var-update 1 var10
+832-var-update 1 var11
+833-var-update 1 var12
+834-var-update 1 var13
+835-var-update 1 var14
+836-var-update 1 var15
+c
+#
+#Breakpoint 13 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300404, to=0x200004, bytes=4) at riscv2.c:76
+#76	    printf("dmaBurst 2, bytes:%d\n", bytes);
+837-data-read-memory-bytes --thread 2 1048576 320
+838-mpd-list-processor-info
+839-stack-list-locals --thread 2 --frame 0 1
+840-stack-info-depth --thread 2 11
+841-stack-list-frames --thread 2
+c
+#
+#Breakpoint 11 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300404, to=0x200004, bytes=4) at riscv2.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR2, (Uns32)from);
+842-data-read-memory-bytes --thread 2 1048576 320
+843-mpd-list-processor-info
+844-stack-list-locals --thread 2 --frame 0 1
+845-stack-info-depth --thread 2 11
+846-stack-list-frames --thread 2
+847-data-read-memory-bytes --thread 2 3146752 320
+848-data-read-memory-bytes --thread 2 2097152 320
+c
+#
+#Breakpoint 12 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300404, to=0x200004, bytes=4) at riscv2.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR2, (Uns32)to);
+849-data-read-memory-bytes --thread 2 2097152 320
+850-mpd-list-processor-info
+851-stack-list-locals --thread 2 --frame 0 1
+852-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 15 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300404, to=0x200004, bytes=4) at riscv2.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR2, bytes);
+853-mpd-list-processor-info
+854-stack-list-locals --thread 2 --frame 0 1
+855-data-read-memory-bytes --thread 2 2097152 320
+856-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 14 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300404, to=0x200004, bytes=4) at riscv2.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x1);
+857-mpd-list-processor-info
+858-stack-list-locals --thread 2 --frame 0 1
+859-stack-info-depth --thread 2 11
+860-data-read-memory-bytes --thread 2 2097152 320
+861-stack-list-frames --thread 2
+c
+#
+#Breakpoint 20 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133 triggered for processor top.cpu2
+#
+#main () at riscv2.c:133
+#133	            wfi();
+862-data-read-memory-bytes --thread 2 2097152 320
+863-mpd-list-processor-info
+864-stack-list-locals --thread 2 --frame 0 1
+865-stack-info-depth --thread 2 11
+866-stack-info-depth --thread 2
+867-var-update 1 var17
+868-var-update 1 var10
+869-var-update 1 var11
+870-var-update 1 var12
+871-var-update 1 var13
+872-var-update 1 var14
+873-var-update 1 var15
+c
+#
+#Breakpoint 16 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:90 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:90
+#90	        printf("Interrupt 2 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR2), 0x1);
+874-mpd-list-processor-info
+875-stack-list-locals --thread 2 --frame 0 1
+876-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 17 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:91 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:91
+#91	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x0); //Pull down START/CLEAR
+877-data-read-memory-bytes --thread 2 2097152 320
+878-mpd-list-processor-info
+879-stack-list-locals --thread 2 --frame 0 1
+880-stack-info-depth --thread 2 11
+881-stack-list-frames --thread 2
+c
+#
+#Breakpoint 19 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132 triggered for processor top.cpu2
+#
+#main () at riscv2.c:132
+#132	            dmaBurst2(adr_b+i, adr_d+i, 4);
+882-data-read-memory-bytes --thread 2 2097152 320
+883-mpd-list-processor-info
+884-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 13 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300408, to=0x200008, bytes=4) at riscv2.c:76
+#76	    printf("dmaBurst 2, bytes:%d\n", bytes);
+885-mpd-list-processor-info
+886-stack-list-locals --thread 2 --frame 0 1
+887-data-read-memory-bytes --thread 2 2097152 320
+888-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 11 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300408, to=0x200008, bytes=4) at riscv2.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR2, (Uns32)from);
+889-data-read-memory-bytes --thread 2 2097152 320
+890-stack-list-locals --thread 2 --frame 0 1
+891-mpd-list-processor-info
+892-stack-info-depth --thread 2 2
+893-stack-info-depth --thread 2 11
+894-stack-list-frames --thread 2
+c
+#
+#Breakpoint 12 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300408, to=0x200008, bytes=4) at riscv2.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR2, (Uns32)to);
+895-mpd-list-processor-info
+896-stack-list-locals --thread 2 --frame 0 1
+897-stack-info-depth --thread 2 11
+898-data-read-memory-bytes --thread 2 2097152 320
+c
+#
+#Breakpoint 15 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300408, to=0x200008, bytes=4) at riscv2.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR2, bytes);
+899-stack-list-frames --thread 2
+900-data-read-memory-bytes --thread 2 2097152 320
+901-mpd-list-processor-info
+902-stack-list-locals --thread 2 --frame 0 1
+903-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 14 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300408, to=0x200008, bytes=4) at riscv2.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x1);
+904-data-read-memory-bytes --thread 2 2097152 320
+905-mpd-list-processor-info
+906-stack-list-locals --thread 2 --frame 0 1
+907-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 20 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133 triggered for processor top.cpu2
+#
+#main () at riscv2.c:133
+#133	            wfi();
+908-mpd-list-processor-info
+909-stack-list-locals --thread 2 --frame 0 1
+910-stack-info-depth --thread 2 11
+911-var-update 1 var17
+912-var-update 1 var10
+913-var-update 1 var11
+914-var-update 1 var12
+915-var-update 1 var13
+916-var-update 1 var14
+917-var-update 1 var15
+918-data-read-memory-bytes --thread 2 2097152 320
+c
+#
+#Breakpoint 16 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:90 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:90
+#90	        printf("Interrupt 2 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR2), 0x1);
+919-mpd-list-processor-info
+920-stack-list-locals --thread 2 --frame 0 1
+921-stack-info-depth --thread 2 11
+922-data-read-memory-bytes --thread 2 2097152 320
+c
+#
+#Breakpoint 17 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:91 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:91
+#91	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x0); //Pull down START/CLEAR
+923-data-read-memory-bytes --thread 2 2097152 320
+924-stack-info-depth --thread 2 2
+925-mpd-list-processor-info
+926-stack-list-locals --thread 2 --frame 0 1
+c
+#
+#Breakpoint 19 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132 triggered for processor top.cpu2
+#
+#main () at riscv2.c:132
+#132	            dmaBurst2(adr_b+i, adr_d+i, 4);
+927-stack-list-locals --thread 2 --frame 0 1
+928-mpd-list-processor-info
+929-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 13 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x30040c, to=0x20000c, bytes=4) at riscv2.c:76
+#76	    printf("dmaBurst 2, bytes:%d\n", bytes);
+930-var-update 1 var17
+931-var-update 1 var10
+932-var-update 1 var11
+933-var-update 1 var12
+934-var-update 1 var13
+935-var-update 1 var14
+936-var-update 1 var15
+937-stack-info-depth --thread 2 2
+938-mpd-list-processor-info
+939-stack-list-locals --thread 2 --frame 0 1
+940-stack-info-depth --thread 2 11
+941-data-read-memory-bytes --thread 2 2097152 320
+942-stack-list-frames --thread 2
+c
+#
+#Breakpoint 11 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x30040c, to=0x20000c, bytes=4) at riscv2.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR2, (Uns32)from);
+943-data-read-memory-bytes --thread 2 2097152 320
+944-mpd-list-processor-info
+945-stack-list-locals --thread 2 --frame 0 1
+946-stack-info-depth --thread 2 11
+947-stack-list-frames --thread 2
+c
+#
+#Breakpoint 12 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x30040c, to=0x20000c, bytes=4) at riscv2.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR2, (Uns32)to);
+948-data-read-memory-bytes --thread 2 2097152 320
+949-mpd-list-processor-info
+950-stack-info-depth --thread 2 11
+951-stack-list-locals --thread 2 --frame 0 1
+952-stack-list-frames --thread 2
+c
+#
+#Breakpoint 15 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x30040c, to=0x20000c, bytes=4) at riscv2.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR2, bytes);
+953-data-read-memory-bytes --thread 2 2097152 320
+954-mpd-list-processor-info
+955-stack-list-locals --thread 2 --frame 0 1
+c
+#
+#Breakpoint 14 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x30040c, to=0x20000c, bytes=4) at riscv2.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x1);
+956-mpd-list-processor-info
+957-stack-list-locals --thread 2 --frame 0 1
+958-stack-info-depth --thread 2 11
+959-data-read-memory-bytes --thread 2 2097152 320
+960-stack-list-frames --thread 2
+c
+#
+#Breakpoint 20 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133 triggered for processor top.cpu2
+#
+#main () at riscv2.c:133
+#133	            wfi();
+961-stack-info-depth --thread 2 2
+962-mpd-list-processor-info
+963-data-read-memory-bytes --thread 2 2097152 320
+964-stack-list-locals --thread 2 --frame 0 1
+965-var-update 1 var17
+966-var-update 1 var10
+967-var-update 1 var11
+968-var-update 1 var12
+969-var-update 1 var13
+970-var-update 1 var14
+971-var-update 1 var15
+c
+#
+#Breakpoint 16 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:90 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:90
+#90	        printf("Interrupt 2 0x%x (0x%02x)\n", readReg8(DMA_BASE, DMA_CLEAR_ADDR2), 0x1);
+972-mpd-list-processor-info
+973-stack-list-locals --thread 2 --frame 0 1
+974-stack-info-depth --thread 2 11
+975-data-read-memory-bytes --thread 2 2097152 320
+c
+#
+#Breakpoint 17 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:91 triggered for processor top.cpu2
+#
+#interruptHandler () at riscv2.c:91
+#91	        writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x0); //Pull down START/CLEAR
+976-data-read-memory-bytes --thread 2 2097152 320
+977-mpd-list-processor-info
+978-stack-list-locals --thread 2 --frame 0 1
+979-stack-info-depth --thread 2 2
+980-stack-info-depth --thread 2 11
+981-stack-list-frames --thread 2
+c
+#
+#Breakpoint 19 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:132 triggered for processor top.cpu2
+#
+#main () at riscv2.c:132
+#132	            dmaBurst2(adr_b+i, adr_d+i, 4);
+982-data-read-memory-bytes --thread 2 2097152 320
+983-mpd-list-processor-info
+984-stack-info-depth --thread 2 11
+985-stack-list-locals --thread 2 --frame 0 1
+986-var-update 1 var17
+987-var-update 1 var10
+988-var-update 1 var11
+989-var-update 1 var12
+990-var-update 1 var13
+991-var-update 1 var14
+992-var-update 1 var15
+c
+#
+#Breakpoint 13 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:76 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300410, to=0x200010, bytes=4) at riscv2.c:76
+#76	    printf("dmaBurst 2, bytes:%d\n", bytes);
+993-data-read-memory-bytes --thread 2 2097152 320
+994-mpd-list-processor-info
+995-stack-list-locals --thread 2 --frame 0 1
+996-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 11 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:78 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300410, to=0x200010, bytes=4) at riscv2.c:78
+#78	    writeReg32(DMA_BASE, DMA_SOURCE_ADDR2, (Uns32)from);
+997-stack-info-depth --thread 2 2
+998-mpd-list-processor-info
+999-stack-list-locals --thread 2 --frame 0 1
+1000-stack-info-depth --thread 2 11
+1001-data-read-memory-bytes --thread 2 2097152 320
+1002-stack-list-frames --thread 2
+c
+#
+#Breakpoint 12 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:79 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300410, to=0x200010, bytes=4) at riscv2.c:79
+#79	    writeReg32(DMA_BASE, DMA_TARGET_ADDR2, (Uns32)to);
+1003-data-read-memory-bytes --thread 2 2097152 320
+1004-mpd-list-processor-info
+1005-stack-list-locals --thread 2 --frame 0 1
+1006-stack-info-depth --thread 2 11
+c
+#
+#Breakpoint 15 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:80 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300410, to=0x200010, bytes=4) at riscv2.c:80
+#80	    writeReg32(DMA_BASE, DMA_SIZE_ADDR2, bytes);
+1007-data-read-memory-bytes --thread 2 2097152 320
+1008-mpd-list-processor-info
+1009-stack-list-locals --thread 2 --frame 0 1
+1010-stack-info-depth --thread 2 11
+1011-stack-list-frames --thread 2
+c
+#
+#Breakpoint 14 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:81 triggered for processor top.cpu2
+#
+#dmaBurst2 (from=0x300410, to=0x200010, bytes=4) at riscv2.c:81
+#81	    writeReg32(DMA_BASE, DMA_CLEAR_ADDR2, 0x1);
+1012-data-read-memory-bytes --thread 2 2097152 320
+1013-mpd-list-processor-info
+1014-stack-list-locals --thread 2 --frame 0 1
+1015-stack-info-depth --thread 2 11
+1016-stack-list-frames --thread 2
+c
+#
+#Breakpoint 20 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:133 triggered for processor top.cpu2
+#
+#main () at riscv2.c:133
+#133	            wfi();
+1017-data-read-memory-bytes --thread 2 2097152 320
+1018-mpd-list-processor-info
+1019-stack-list-locals --thread 2 --frame 0 1
+1020-stack-info-depth --thread 2 11
+1021-var-update 1 var17
+1022-var-update 1 var10
+1023-var-update 1 var11
+1024-var-update 1 var12
+1025-var-update 1 var13
+1026-var-update 1 var14
+1027-var-update 1 var15
+1028-break-delete --thread 2 20
+1029-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1030-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1031-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1032-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1033-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1034-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1035-break-delete --thread 2 19
+1036-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1037-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1038-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1039-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1040-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1041-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1042-break-delete --thread 2 16
+1043-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1044-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1045-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1046-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1047-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1048-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1049-break-delete --thread 2 17
+1050-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1051-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1052-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1053-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1054-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1055-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1056-break-delete --thread 2 11
+1057-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1058-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1059-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1060-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1061-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1062-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1063-break-delete --thread 2 12
+1064-break-delete --thread 2 15
+1065-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1066-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1067-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1068-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1069-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1070-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1071-break-delete --thread 2 14
+1072-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1073-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1074-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1075-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1076-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1077-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+1078-break-delete --thread 2 13
+1079-break-insert --thread 2 /home/user2/esl24/esl2447/20240627/testdual_mod/platform/platform.cpp:19
+1080-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:80
+1081-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:78
+1082-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:79
+1083-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:81
+1084-break-insert --thread 1 /home/user2/esl24/esl2447/20240627/testdual_mod/application/riscv1.c:127
+c
+#
+#Breakpoint 21 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:135 triggered for processor top.cpu2
+#
+#main () at riscv2.c:135
+#135	        writeReg8(0x200800, 0, 0x0);    //RISCV-2  writes a flag 0x0 to address 0x200800 to indicate the end of data transmission.
+1085-data-read-memory-bytes --thread 2 2097152 320
+1086-mpd-list-processor-info
+1087-stack-info-depth --thread 2 11
+1088-stack-list-locals --thread 2 --frame 0 1
+1089-var-update 1 var10
+1090-var-update 1 var11
+1091-var-update 1 var12
+1092-var-update 1 var13
+1093-var-update 1 var14
+1094-var-update 1 var15
+c
+#
+#Breakpoint 18 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:126 triggered for processor top.cpu2
+#
+#main () at riscv2.c:126
+#126	        while(readReg8(0x200800, 0) != (Uns32)0x1)
+1095-data-read-memory-bytes --thread 2 2097152 320
+1096-mpd-list-processor-info
+1097-stack-list-locals --thread 2 --frame 0 1
+1098-stack-info-depth --thread 2 11
+1099-var-update 1 var10
+1100-var-update 1 var11
+1101-var-update 1 var12
+1102-var-update 1 var13
+1103-var-update 1 var14
+1104-var-update 1 var15
+c
+#
+#Breakpoint 10 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:136 triggered for processor top.cpu1
+#
+#main () at riscv1.c:136
+#136	        writeReg8(0x200800, 0, 0x1);    //RISCV-1 writes a flag 0x1 to address 0x200800 to indicate the end of data transmission.
+1105-data-read-memory-bytes --thread 2 2097152 320
+1106-mpd-list-processor-info
+1107-stack-info-depth --thread 1 11
+1108-data-read-memory-bytes --thread 1 3145728 320
+1109-data-read-memory-bytes --thread 1 1048576 320
+1110-stack-list-locals --thread 1 --frame 0 1
+1111-var-update 1 var1
+1112-var-update 1 var2
+1113-var-update 1 var3
+1114-var-update 1 var4
+1115-var-update 1 var5
+c
+#
+#Breakpoint 7 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:127 triggered for processor top.cpu1
+#
+#main () at riscv1.c:127
+#127	        while(readReg8(0x200800, 0) != (Uns32)0x0)
+1116-data-read-memory-bytes --thread 1 1048576 320
+1117-mpd-list-processor-info
+1118-stack-list-locals --thread 1 --frame 0 1
+1119-stack-info-depth --thread 1 11
+1120-var-update 1 var1
+1121-var-update 1 var2
+1122-var-update 1 var3
+1123-var-update 1 var4
+1124-var-update 1 var5
+c
+#
+#Breakpoint 21 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:135 triggered for processor top.cpu2
+#
+#main () at riscv2.c:135
+#135	        writeReg8(0x200800, 0, 0x0);    //RISCV-2  writes a flag 0x0 to address 0x200800 to indicate the end of data transmission.
+c
+#
+#Breakpoint 18 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv2.c:126 triggered for processor top.cpu2
+#
+#main () at riscv2.c:126
+#126	        while(readReg8(0x200800, 0) != (Uns32)0x1)
+1125-data-read-memory-bytes --thread 1 1048576 320
+1126-mpd-list-processor-info
+1127-stack-info-depth --thread 2 11
+1128-data-read-memory-bytes --thread 2 2097152 320
+1129-data-read-memory-bytes --thread 2 1048576 320
+1130-stack-list-locals --thread 2 --frame 0 1
+1131-var-update 1 var10
+1132-var-update 1 var11
+1133-var-update 1 var12
+1134-var-update 1 var13
+1135-var-update 1 var14
+1136-var-update 1 var15
+1137-data-read-memory-bytes --thread 2 3146752 320
+1138-thread-select --thread 1 1
+c
+#
+#Breakpoint 10 at /home/user2/esl24/esl2438/Desktop/Project2_1/application/riscv1.c:136 triggered for processor top.cpu1
+#
+#main () at riscv1.c:136
+#136	        writeReg8(0x200800, 0, 0x1);    //RISCV-1 writes a flag 0x1 to address 0x200800 to indicate the end of data transmission.
+1139-data-read-memory-bytes --thread 1 1048576 320
+1140-mpd-list-processor-info
+1141-stack-info-depth --thread 1 11
+1142-stack-list-locals --thread 1 --frame 0 1
+1143-var-update 1 var1
+1144-var-update 1 var2
+1145-var-update 1 var3
+1146-var-update 1 var4
+1147-var-update 1 var5
+# End MPD log
