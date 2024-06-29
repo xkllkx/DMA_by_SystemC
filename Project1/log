@@ -1,0 +1,7 @@
+make: Entering directory `/home/user2/esl24/esl2447/P1/application'
+make: Nothing to be done for `all'.
+make: Leaving directory `/home/user2/esl24/esl2447/P1/application'
+# INFO: Using local TLM support archive tlmSupport/tlm.a; Set IMPERAS_TLM_SUPPORT_ARCHIVE to specify an alternative library built from source files in /usr/cad/imperas/cur/ImpPublic/source/host/tlm"
+make: Entering directory `/home/user2/esl24/esl2447/P1/platform'
+# TLM Compiling Build/Linux64/usr/platform.o
+make: Leaving directory `/home/user2/esl24/esl2447/P1/platform'

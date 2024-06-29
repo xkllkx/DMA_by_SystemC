@@ -1,0 +1,3 @@
+install RUNTIME OVPsim CpuManager
+install riscv.toolchain armv7.toolchain mips-mti.toolchain
+install riscv.model arm.model mips32_r1r5.model
