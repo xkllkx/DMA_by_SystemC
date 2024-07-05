@@ -70,7 +70,7 @@ make clean
 cd Project2/platform
 make clean
 
-cd Project1
+cd Project2
 make
 ./run.sh
 ```
