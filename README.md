@@ -37,8 +37,8 @@ The application is divided into two stage (Project1, Project2):
 - Behavior
 After setting the addresses for CPU1 and CPU2, the program initiates CPU1. The read and write functions operate similarly to Project 1, but a new address, 0x200800, is introduced to prevent simultaneous read and write operations by CPU1 and CPU2. CPU1 works when the data at address 0x200800 is 0, while CPU2 works when the data is 1.
 - Ex：
-  1  First iter (RISC-V-1) : dmaBurst -> interruptHandler -> ...
-  2. Second iter (RISC-V-2) : dmaBurst -> interruptHandler -> ...
+  1  First iter (RISC-V-1) : dmaBurst -> interruptHandler -> ... for 256 round
+  2. Second iter (RISC-V-2) : dmaBurst -> interruptHandler -> ... for 256 round
 
 <img src="https://github.com/xkllkx/DMA_by_SystemC/blob/main/Project2/Project2.png" width="50%" height="50%">
 
