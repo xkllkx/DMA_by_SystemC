@@ -1,6 +1,6 @@
 # DMA_by_SystemC
 
-This repository demonstrates how to port RISC-V cores on the Imperas M*SDK/OVP platform, using SystemC to simulate DMA behavior for data exchange via shared memory.
+This repository demonstrates how to port RISC-V cores on the **Imperas M*SDK/OVP platform**, using **SystemC** to simulate DMA behavior for data exchange via shared memory.
 The application is divided into two stage (Project1, Project2):
 
 ### Project1 (Single DMA, Single core)
